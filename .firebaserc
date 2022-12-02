@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "asistanceapp": {
+      "hosting": {
+        "app": [
+          "asistanceapp"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "asistanceapp"
+  }
+}
