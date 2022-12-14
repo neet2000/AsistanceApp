@@ -16,11 +16,8 @@ import { AuthGuard } from './guards/auth.guard';
 //import { Splashscreen } from 'ionic-native/dist/es5/plugins/splashscreen';
 import { BarcodeScanner } from '@awesome-cordova-plugins/barcode-scanner/ngx';
 
-
-
-
 @NgModule({
-  declarations: [AppComponent],
+  declarations: [AppComponent,],
   entryComponents: [],
   imports: [
     BrowserModule,

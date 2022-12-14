@@ -23,5 +23,7 @@ export class ListaPage {
          console.log('Error', err);
      });
   }
+
+  
 }
  
